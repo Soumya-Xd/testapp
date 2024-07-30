@@ -2,7 +2,7 @@
 
 # testapp
 # LINK
-https://testapp-xzphusuna99jrwsrlv6zyg.streamlit.app/
+https://testapp-8v3q3eukn3sxpse8tbqob3.streamlit.app/
 
 
 # dataset
