@@ -23,7 +23,7 @@ st.markdown(
      """
     <style>
     .main {
-        background-color:yellow;
+        background-color:navy blue;
         background-size: cover;
     }
     h1 {
